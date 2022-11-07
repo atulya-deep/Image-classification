@@ -1,5 +1,5 @@
 # Image-classification
-Using Le net and ResNet
+Using Le net and ResNet ad custom data from scratch
 # DATASET USED
 ```python
 The CIFAR-100 dataset (Canadian Institute for Advanced Research, 100 classes) is a subset of the Tiny Images dataset and consists of 60000 32x32 color images.
